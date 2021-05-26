@@ -9,7 +9,7 @@ export default makeStyles({
     width: '100%',
     height: '45vh',
     padding: '10%',
-    borderRadius: 10,
+    borderRadius: 15,
     color: 'white',
   },
   infoCard: {
