@@ -1,8 +1,48 @@
-# Getting Started with Create React App
+# Voice Controlled React News Application - Alan AI Voice Assistant
+
+### [Live Site](https://ai-news-app-b85b4d.netlify.app/)
+
+![Voice Controlled React News Application](https://i.postimg.cc/50c4Rcv3/Screenshot-from-2021-05-29-13-42-46.png)
+
+# Introduction
+
+This project is Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
+### ALAN AI STUDIO CODE (https://github.com/Navya-Andra/ALAN-AI-code.git)
+
+## TECH STACK USED
+### React
+### Material-UI
+### HTML
+### CSS
+
+## [NEWS API] (https://newsapi.org/)
+News API is a simple HTTP REST API for searching and retrieving live articles from all over the web. It can help you answer questions like:
+
+What top stories is TechCrunch running right now?
+What new articles were published about the next iPhone today?
+Has my company or product been mentioned or reviewed by any blogs recently?
+You can search for articles with any combination of the following criteria:
+
+Keyword or phrase. Eg: find all articles containing the word 'Microsoft'.
+Date published. Eg: find all articles published yesterday.
+Source domain name. Eg: find all articles published on thenextweb.com.
+Language. Eg: find all articles written in English.
+You can sort the results in the following orders:
+
+Date published
+Relevancy to search keyword
+Popularity of source
+You need an API key to use the API - this is a unique key that identifies your requests. They're free while you're in development.
+
+
+
+
+
+## Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -68,3 +108,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<a id="bug"></a>
+## 🐛 Bug Reporting
+Feel free to [open an issue](https://github.com/PawanKolhe/color-calendar/issues) on GitHub if you find any bug.
+
+<a id="feature-request"></a>
+## ⭐ Feature Request
+- Feel free to [Open an issue](https://github.com/PawanKolhe/color-calendar/issues) on GitHub to request any additional features you might need for your use case.   
