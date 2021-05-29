@@ -32,7 +32,7 @@ You can sort the results in the following orders:
 Date published
 Relevancy to search keyword
 Popularity of source
-You need an API key to use the API - this is a unique key that identifies your requests. They're free while you're in development.
+You need an API key to use the API - this is a unique key that identifies your requests.
 
 
 
@@ -112,8 +112,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <a id="bug"></a>
 ## 🐛 Bug Reporting
-Feel free to [open an issue](https://github.com/PawanKolhe/color-calendar/issues) on GitHub if you find any bug.
+Feel free to [open an issue](https://github.com/Navya-Andra/AI-news-app/issues) on GitHub if you find any bug.
 
 <a id="feature-request"></a>
 ## ⭐ Feature Request
-- Feel free to [Open an issue](https://github.com/PawanKolhe/color-calendar/issues) on GitHub to request any additional features you might need for your use case.   
+- Feel free to [Open an issue](https://github.com/Navya-Andra/AI-news-app/issues) on GitHub to request any additional features you might need for your use case.   
